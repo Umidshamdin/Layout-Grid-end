@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.row .Header{
+    margin-top: 10px;
+    padding: 10px;
+    box-shadow: 5px 10px gray;  
+    display: flex;
+}
+.Header .Home{
+    margin-left: 1300px;  
+}
+main #first-section .Page-header .header h1{
+    margin-left: 600px;
+    font-size: 30px;
+}
+main #first-section .row .lorem p{
+    color: black;
+    width: 46%;
+    margin-left: 350px;
+    margin-top: 6px;
+    text-align: center;   
+}
+main #first-section .Page-header .red{
+    color: white;
+    background-color: rgb(76, 76, 206);
+    font-size: 25px;
+    border-top-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-top-right-radius: 7px ;
+    border-bottom-left-radius: 7px;   
+}
+main #first-section .Page-header .blue{
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+main #first-section .Page-header .red{
+    margin-left: 500px;
+    padding: 6px;
+    width: 180px;
+    margin-top: 20px;
+}
+main #first-section .Page-header .blue{
+    margin-left: 30px;
+    padding: 6px;
+    width: 180px;
+    margin-top: 20px;
+}
+main #first-section .Page-header{
+    background-color: rgb(240, 248, 255);
+    height: 400px;   
+}
+main #content-block .head h2{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+main #content-block .lorem2 p{
+    width: 75%;
+    margin-left: 50px;
+}
+main #content-block .icon{
+    color: white;
+    background-color: blue;
+    font-size: 25px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
+    width: 180px;
+    height: 40px;
+    margin-left: 50px;
+    margin-top: 30px;
+} 
+main #content-block .right{
+    color: blue;
+    background-color: gray;
+    width: 700px;
+    height: 300px;
+    margin-right: 70px;   
+}
+main #content-block .right h2{
+    text-align: center;
+    margin-top: 150px;
+    font-size: 50px;
+}
+main #content-block .row2{
+    display: flex;
+}
+main .fab fa-adversal{
+    font-size: 50px;
+}
+main #icon span{
+    font-size: 170px;
+    margin-top: 50px;
+    margin-right: 140px;
+  
+}
+main #icon .Content h1{
+    text-align: center;
+    margin-right: 100px;
+    margin-top: 120px;
+
+}
+main #icon .Heading{
+    display: flex;
+    margin-left: 50px;
+}
+main #icon .Heading .heading1{
+    margin-right: 50px;
+}
+.col-1{
+    width: 8.33%;
+}
+.col-2{
+    width: 16.66%;
+}
+.col-3{
+    width: 25%;
+}
+.col-4{
+    width: 33.33%;
+   
+}
+.col-5{
+    width: 41.66%;
+}
+.col-6{
+    width: 50%;
+}
+.col-7{
+    width: 58.33%;
+}
+.col-8{
+    width: 66.66%;
+}
+.col-9{
+    width: 75%;
+}
+.col-10{
+    width: 83.33%;
+}
+.col-11{
+    width: 91.66%;
+}
+.col-12{
+    width: 100%;
+}
+.row{
+    display: flex;
+    width: 100%;
+}
+main #block .row4 h2 {
+    background-color: aqua;
+}    
+.items h2{
+    /* width: 200px; */
+    height: 100px;
+}
+.col-4 h1{
+    width: 330px;
+    height: 150px;
+    background-color: gray;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    padding-top:50px;
+}
+main #Content .row5 .head h1{
+    color: black;
+    margin-top: 30px;
+    margin-left: 600px;
+    text-align: center;
+    width: 200px;
+}
+main #Content .row5 .lorem p{
+    margin-top: 30px;
+    text-align: center;
+    width: 800px;
+    margin-left: 280px;
+}
+main #Content .row5 .inputs{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 30px;
+    margin-right: 150px;  
+}
+main #Content .row5 .inputs .send{
+    background-color: aqua;
+    color:white;
+    font-size: medium;
+    width: 70px;
+    border-radius: 6px;   
+}
+footer #finish .write{
+    margin-top: 30px;
+    width: 70%;
+    text-align: center;
+    margin-left: 150px;
+}
+
+
+
+
+
